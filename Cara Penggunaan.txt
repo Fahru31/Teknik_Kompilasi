@@ -1,0 +1,4 @@
+Format buka :
+1. Buka CMD
+2. Format Buka : python <spasi> "drag file main.py" <spasi> "drag salah satu file fungsi"
+3. Tekan enter

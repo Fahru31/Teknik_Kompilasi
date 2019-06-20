@@ -1,0 +1,7 @@
+a = 2 ;
+
+	yen ( a == 2 ){
+		cetak (" A  Nilaine Dua  ");}
+	else {
+		cetak (" A  Ora Dua   ");}
+
